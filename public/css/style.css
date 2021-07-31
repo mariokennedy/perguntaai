@@ -1,0 +1,45 @@
+body{
+    background-color: #121619;
+}
+
+label{
+    color: black;
+}
+
+input{
+    opacity: 0.9;
+}
+
+textarea{
+    opacity: 0.9;
+}
+
+h4{
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+.header{
+    background-color: black;
+}
+.botao{
+    color: white;
+    background-color: black;
+}
+.botao:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#pergunta{
+    color: white;
+}
+
+#formulario-pergunta{
+    margin-top: 15vh;
+    background-color: #e5ebea;
+}
